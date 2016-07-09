@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hackathon.CSharp.Plugins", "Hackathon.CSharp.Plugins.csproj", "{954F9705-3D42-D345-B789-5FD81A89FFEE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hackathon.CSharp", "Hackathon.CSharp.csproj", "{C5917068-AA8D-6033-DB08-1A76AA14CC6B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hackathon.CSharp.Editor", "Hackathon.CSharp.Editor.csproj", "{5FC0BCA8-E18C-B4C8-A954-ED05DEE5B81B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{954F9705-3D42-D345-B789-5FD81A89FFEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{954F9705-3D42-D345-B789-5FD81A89FFEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{954F9705-3D42-D345-B789-5FD81A89FFEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{954F9705-3D42-D345-B789-5FD81A89FFEE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5917068-AA8D-6033-DB08-1A76AA14CC6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5917068-AA8D-6033-DB08-1A76AA14CC6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5917068-AA8D-6033-DB08-1A76AA14CC6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5917068-AA8D-6033-DB08-1A76AA14CC6B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5FC0BCA8-E18C-B4C8-A954-ED05DEE5B81B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FC0BCA8-E18C-B4C8-A954-ED05DEE5B81B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FC0BCA8-E18C-B4C8-A954-ED05DEE5B81B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FC0BCA8-E18C-B4C8-A954-ED05DEE5B81B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
