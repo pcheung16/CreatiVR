@@ -57,7 +57,7 @@ public class SteamVR_TrackedController : MonoBehaviour
 
 	public void SetDeviceIndex(int index)
 	{
-        this.controllerIndex = controllerIndex = (uint)this.GetComponent<SteamVR_TrackedObject>().index; //this was changed as well 
+        this.controllerIndex = (uint)this.GetComponent<SteamVR_TrackedObject>().index; //this was changed as well 
     }
 
 	public virtual void OnTriggerClicked(ClickedEventArgs e)
